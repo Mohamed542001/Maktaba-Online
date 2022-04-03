@@ -1,0 +1,13 @@
+﻿
+
+.profileimage{
+    border-radius:20%;
+    border:2px solid black;
+}
+
+.myBookImage {
+    border-radius: 20%;
+    border: 2px solid black;
+    width: 370px;   
+    height: 375px;
+}
